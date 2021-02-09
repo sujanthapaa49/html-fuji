@@ -1,0 +1,23 @@
+body{
+	background-color: lightskyblue;
+}
+header
+{
+
+	background-image: url("images/pic4.jpg");
+	background-size:cover;
+	background-repeat: no-repeat;
+	text-align: center;
+	color: ffffff;
+	text-shadow: 1px 1px pink;
+	border: 2px solid tomato;
+}
+div,ul,li
+{
+	padding:2px 20px 20px 20px;
+	display: inline;
+	text-align: left;
+}
+li:hover{
+	background-color: red;
+}
